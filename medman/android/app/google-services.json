@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39806119864",
+    "project_id": "medman-3d5b3",
+    "storage_bucket": "medman-3d5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39806119864:android:acd2d08c52184f3c64694d",
+        "android_client_info": {
+          "package_name": "com.example.medman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39806119864-8mapoikfe5m7mjo85ujej3jq0gsv8nk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medman",
+            "certificate_hash": "fb12c8c4e567f6edfa2ff99a921bc3a68c2c73ff"
+          }
+        },
+        {
+          "client_id": "39806119864-o8t5uf822n98l2vbumurco4ud2odsvpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoVKlEv71dFZyjAwlJkpQuKLB231nIYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39806119864-o8t5uf822n98l2vbumurco4ud2odsvpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
